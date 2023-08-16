@@ -6,6 +6,10 @@ nav {
   height: 90px;
 }
 
+nav img {
+  cursor: pointer;
+}
+
 .nav-links a {
   font-weight: bold;
   text-decoration: none;

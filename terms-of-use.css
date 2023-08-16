@@ -1,0 +1,60 @@
+main span {
+  background-color: #ffe7d6;
+  font-weight: 500;
+  color: #d75e0a;
+  font-size: 12px;
+  border-radius: 100px;
+  padding: 4px 8px;
+}
+
+.terms-of-use h1 {
+  margin-bottom: 60px;
+  font-size: 60px;
+  margin-top: 18px;
+}
+
+.sub-heading {
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+}
+.terms-of-use p {
+  font-size: 16px;
+}
+
+.agreed-term h2 {
+  margin-top: 64px;
+
+  font-size: 40px;
+}
+
+.agreed-term h4 {
+  margin-top: 40px;
+  margin-bottom: 24px;
+  font-size: 21px;
+  font-weight: 600;
+}
+
+.agreed-term li {
+  margin-bottom: 24px;
+}
+
+.agreed-term li a {
+  text-decoration: none;
+  color: #2557d6;
+  font-weight: 500;
+}
+
+.agreed-term li a:hover {
+  color: #002fae;
+}
+
+.agreed-term p a {
+  text-decoration: none;
+  color: #2557d6;
+  font-weight: 500;
+}
+
+.agreed-term p a:hover {
+  color: #002fae;
+}
