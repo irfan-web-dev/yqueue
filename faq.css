@@ -1,0 +1,58 @@
+.navigation {
+  position: sticky;
+  top: 64px;
+}
+
+.navigation .navigation-links a {
+  text-decoration: none;
+  border: #625e78 1px solid;
+  border-radius: 100px;
+  font-size: 15px;
+  color: #625e78;
+  background-color: #fafafa;
+  padding: 4px;
+  font-weight: 500;
+}
+
+.navigation .navigation-links a:hover {
+  color: rgb(0, 0, 194);
+}
+
+main {
+  position: relative;
+  padding-top: 64px;
+}
+
+h1 {
+  font-size: 64px;
+  margin-top: 50px;
+}
+
+.faqs h2 {
+  font-size: 37px;
+  margin-top: 100px;
+  margin-bottom: 70px;
+}
+
+.faqs .faq {
+  background-color: #f3f3f5;
+  padding: 32px;
+  border-radius: 8px;
+  margin-bottom: 35px;
+}
+
+.faqs .faq h4 {
+  font-size: 20px;
+  margin-bottom: 16px;
+  font-weight: 600;
+}
+
+.faqs .faq a {
+  text-decoration: none;
+  color: #2557d6;
+  font-weight: 500;
+}
+
+.faqs .faq a:hover {
+  color: #002fae;
+}
