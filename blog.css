@@ -1,0 +1,75 @@
+.hero-sandbox-blog {
+  background-color: #f0effc;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.hero-sandbox-blog img {
+  border-radius: 10px;
+  box-shadow: 8px 8px #d1d0f6;
+  width: 450px;
+  height: 422px;
+}
+
+.sandbox-span {
+  background-color: #ffe7d6;
+  font-weight: 500;
+  color: #d75e0a !important;
+  font-size: 12px;
+  border-radius: 100px;
+  padding: 4px 8px;
+}
+
+.sandbox-spans {
+  font-size: 12px;
+  font-weight: 500;
+  color: #7a778d;
+}
+
+main h4 {
+  font-size: 22px;
+  margin-bottom: 18px;
+}
+
+main span {
+  margin-left: 10px;
+}
+
+.hero-sandbox-blog a {
+  padding: 10px;
+  border-radius: 7px;
+  font-size: 15px;
+  text-decoration: none;
+  color: white !important;
+  background: linear-gradient(95deg, #2557d6 0%, #8824be 101%);
+  box-shadow: 1px 1px 8px rgb(13 7 47 / 24%);
+}
+
+.hero-sandbox-blog a:hover {
+  background: linear-gradient(45deg, #4125ed 0%, #9a00cf 50%, #fe8533 85%);
+}
+
+.hvala-blog img {
+  border-radius: 10px;
+  box-shadow: 8px 8px 0 #dbdae0;
+  width: 188px;
+  height: 188px;
+  object-fit: cover;
+}
+
+.hvala-blog {
+  padding-top: 64px;
+  padding-bottom: 64px;
+  border-bottom: 2px solid #dbdae0;
+}
+
+.hvala-blog a {
+  text-decoration: none;
+  color: #2557d6;
+  font-weight: 500;
+  font-size: 17px;
+}
+
+.hvala-blog a:hover {
+  color: #002fae;
+}
