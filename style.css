@@ -1,3 +1,40 @@
+* {
+  outline-color: #75a7ff;
+}
+
+nav {
+  height: 90px;
+}
+
+nav img {
+  cursor: pointer;
+}
+
+.nav-links a {
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+  padding: 8px;
+  border-radius: 7px;
+}
+
+.nav-links a:hover {
+  background-color: #e7e6ea;
+}
+
+.nav-active-link {
+  padding: 8px;
+  border-radius: 7px;
+  text-decoration: none;
+  color: white !important;
+  background: linear-gradient(95deg, #2557d6 0%, #8824be 101%);
+}
+
+.nav-active-link:hover {
+  background: linear-gradient(45deg, #4125ed 0%, #9a00cf 50%, #fe8533 85%);
+}
+
 .hero .hero-image {
   height: 650px;
   overflow: hidden;
@@ -268,4 +305,32 @@
 
 .qr-dining a:hover {
   color: #002fae;
+}
+
+.footer-content a {
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+}
+
+.footer-content {
+  background-color: #0d072f;
+}
+
+.footer-content-2 {
+  background-color: #191339;
+  color: white;
+}
+
+.footer-content-2 a {
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+}
+
+.footer-content-2 img {
+  height: 38px;
+  width: 38px;
+  margin-left: 6px;
+  cursor: pointer;
 }
