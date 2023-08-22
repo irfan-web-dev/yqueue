@@ -122,6 +122,13 @@
   box-shadow: 8px 8px 0 #dbdae0;
 }
 
+@media (max-width: 768px) {
+  .about-us-partner-image {
+    width: 400px;
+    height: 252px;
+  }
+}
+
 .about-us-details a {
   text-decoration: none;
   color: #2562e2;
