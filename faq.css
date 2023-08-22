@@ -4,6 +4,7 @@
 }
 
 .navigation .navigation-links a {
+  box-shadow: 3px 4px 4px #e7e6ea;
   text-decoration: none;
   border: #625e78 1px solid;
   border-radius: 100px;
@@ -16,6 +17,7 @@
 
 .navigation .navigation-links a:hover {
   color: rgb(0, 0, 194);
+  border: 2px solid #4f3db9;
 }
 
 main {
