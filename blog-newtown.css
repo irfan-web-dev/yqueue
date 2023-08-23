@@ -41,3 +41,33 @@
     height: 370px;
   }
 }
+
+.newtown-content {
+  padding-top: 100px;
+}
+
+.newtown-content img {
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 8px 8px #dbdae0;
+  width: 1020px;
+  height: 576px;
+}
+
+@media (max-width: 992px) {
+  .newtown-content img {
+    width: 485px;
+    height: 270px;
+  }
+}
+
+.newtown-content a {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+  color: #2c64db;
+}
+
+.newtown-content a:hover {
+  color: #002fae;
+}
